@@ -1,0 +1,47 @@
+﻿Item ID,Item Name,Price,Category,Restaurant ID
+1,Margherita Pizza,$10.99,Pizza,101
+2,Cheeseburger,$8.49,Burgers,102
+3,Spaghetti Carbonara,$12.99,Pasta,103
+4,Chicken Tikka Masala,$14.99,Indian,104
+5,Sushi Combo,$18.99,Japanese,105
+6,Caesar Salad,$7.99,Salad,106
+7,Fish and Chips,$11.49,Seafood,107
+8,Beef Tacos,$9.99,Mexican,108
+9,Pad Thai,$10.99,Thai,109
+10,BBQ Ribs,$15.99,BBQ,110
+11,Veggie Wrap,$8.99,Wraps,111
+12,Chicken Caesar Wrap,$9.49,Wraps,112
+13,Veggie Pizza,$11.99,Pizza,113
+14,Chicken Alfredo,$13.49,Pasta,114
+15,Beef Stir Fry,$12.99,Chinese,115
+16,Veggie Burger,$9.49,Burgers,116
+17,Shrimp Tempura,$16.99,Japanese,117
+18,Chicken Shawarma,$10.99,Middle Eastern,118
+19,Greek Salad,$8.99,Salad,119
+20,Pepperoni Pizza,$12.99,Pizza,120
+21,Beef Burrito,$10.49,Mexican,121
+22,Salmon Teriyaki,$17.49,Japanese,122
+23,Falafel Wrap,$8.99,Wraps,123
+24,Chicken Korma,$13.99,Indian,124
+25,Tandoori Chicken,$14.99,Indian,125
+26,California Roll,$9.99,Sushi,126
+27,Fettuccine Alfredo,$11.99,Pasta,127
+28,Pulled Pork Sandwich,$10.99,Sandwiches,128
+29,Chicken Satay,$8.99,Thai,129
+30,Vegetable Curry,$11.49,Indian,130
+31,Philly Cheesesteak,$12.99,Sandwiches,131
+32,Chicken Fried Rice,$9.99,Chinese,132
+33,Chicken Caesar Salad,$8.49,Salad,133
+34,Beef Lasagna,$13.99,Italian,134
+35,Tiramisu,$6.99,Desserts,135
+36,Chicken Quesadilla,$9.99,Mexican,136
+37,Chicken Wings,$10.99,Appetizers,137
+38,Cheese Pizza,$11.99,Pizza,138
+39,Veggie Sushi Roll,$8.99,Sushi,139
+40,Beef Enchiladas,$11.99,Mexican,140
+41,Chicken Parmesan,$13.99,Italian,141
+42,Pad See Ew,$10.49,Thai,142
+43,Lobster Bisque,$7.99,Soups,143
+44,Beef Gyro,$9.99,Greek,144
+45,Veggie Omelette,$8.99,Breakfast,145
+46,Fish Tacos,$12.49,Mexican,146

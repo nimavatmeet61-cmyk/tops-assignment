@@ -1,0 +1,51 @@
+﻿Review ID,Restaurant ID,Customer ID,Rating,Review Text,Date
+1,101,1001,4.5,"Delicious pizza, but delivery was slow.",01-04-2024
+2,102,1002,4,"Great burgers, friendly service.",02-04-2024
+3,103,1003,4.8,"The pasta was amazing, will come back!",03-04-2024
+4,104,1004,4.2,"Good Indian food, but portions were small.",04-04-2024
+5,105,1005,4.9,Sushi was fresh and delicious.,05-04-2024
+6,106,1006,4.5,The salad was refreshing and tasty.,06-04-2024
+7,107,1007,4.3,Fish and chips were crispy and flavorful.,07-04-2024
+8,108,1008,4.7,"Tacos were delicious, authentic taste.",08-04-2024
+9,109,1009,4.6,Pad Thai was flavorful and satisfying.,09-04-2024
+10,110,1010,4.8,BBQ ribs were tender and juicy.,10-04-2024
+11,111,1011,4.4,Veggie wrap was fresh and filling.,11-04-2024
+12,112,1012,4.1,"Chicken Caesar wrap was okay, could be better.",12-04-2024
+13,113,1013,4.9,"Best pizza in town, loved the toppings.",13-04-2024
+14,114,1014,4.7,Chicken Alfredo was creamy and delicious.,14-04-2024
+15,115,1015,4.6,Beef stir fry had a good balance of flavors.,15-04-2024
+16,116,1016,4.5,Veggie burger was tasty and filling.,16-04-2024
+17,117,1017,4.8,Shrimp tempura was crispy and delicious.,17-04-2024
+18,118,1018,4.3,Chicken shawarma lacked seasoning.,18-04-2024
+19,119,1019,4.7,Greek salad was fresh and flavorful.,19-04-2024
+20,120,1020,4.9,Pepperoni pizza was excellent.,20-04-2024
+21,121,1021,4.6,Beef burrito was flavorful and filling.,21-04-2024
+22,122,1022,4.8,Salmon teriyaki was cooked to perfection.,22-04-2024
+23,123,1023,4.4,Falafel wrap was tasty but a bit messy.,23-04-2024
+24,124,1024,4.7,Chicken korma had a good balance of spices.,24-04-2024
+25,125,1025,4.9,Tandoori chicken was juicy and flavorful.,25-04-2024
+26,126,1026,4.6,California roll was fresh and delicious.,26-04-2024
+27,127,1027,4.8,Fettuccine Alfredo was creamy and tasty.,27-04-2024
+28,128,1028,4.5,Pulled pork sandwich was tender and flavorful.,28-04-2024
+29,129,1029,4.7,Chicken satay was flavorful and tender.,29-04-2024
+30,130,1030,4.9,Vegetable curry was delicious and spicy.,30-04-2024
+31,131,1031,4.6,Philly cheesesteak was authentic and tasty.,01-05-2024
+32,132,1032,4.8,Chicken fried rice was flavorful.,02-05-2024
+33,133,1033,4.5,Chicken Caesar salad was fresh and tasty.,03-05-2024
+34,134,1034,4.7,Beef lasagna was cheesy and delicious.,04-05-2024
+35,135,1035,4.9,Tiramisu was creamy and indulgent.,05-05-2024
+36,136,1036,4.6,Chicken quesadilla was flavorful and cheesy.,06-05-2024
+37,137,1037,4.8,Chicken wings were crispy and flavorful.,07-05-2024
+38,138,1038,4.5,Cheese pizza was cheesy and delicious.,08-05-2024
+39,139,1039,4.7,Veggie sushi roll was fresh and flavorful.,09-05-2024
+40,140,1040,4.9,Beef enchiladas were flavorful and satisfying.,10-05-2024
+41,141,1041,4.6,Chicken parmesan was flavorful and tender.,11-05-2024
+42,142,1042,4.8,Pad See Ew was flavorful and aromatic.,12-05-2024
+43,143,1043,4.4,Lobster bisque was creamy and delicious.,13-05-2024
+44,144,1044,4.7,Beef gyro was flavorful and juicy.,14-05-2024
+45,145,1045,4.9,Veggie omelette was fresh and tasty.,15-05-2024
+46,146,1046,4.6,Fish tacos were crispy and flavorful.,16-05-2024
+47,147,1047,4.8,Caprese salad was fresh and delicious.,17-05-2024
+48,148,1048,4.5,Hamburger was juicy and delicious.,18-05-2024
+49,149,1049,4.7,Crispy chicken sandwich was tasty.,19-05-2024
+50,150,1050,4.9,Chocolate cake was rich and decadent.,20-05-2024
